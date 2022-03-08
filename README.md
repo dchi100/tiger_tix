@@ -10,10 +10,13 @@ C# docs : [Click here for C# docs](https://docs.microsoft.com/en-us/dotnet/cshar
 Install .NET
 
 If you're not working in Visual Studio, you have to manage the development certificate.
+
     `dotnet dev-certs https --trust`
     
 Once .NET is installed and the repo is cloned, you can run the web app locally with the following command
+
     `cd asp_tigertix`
+    
     `dotnet watch run`
 
 Once the webapp is running, you can make changes to code and it will automatically update on your localhost
