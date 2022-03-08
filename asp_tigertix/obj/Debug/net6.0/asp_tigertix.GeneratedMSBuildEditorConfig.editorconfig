@@ -15,6 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/jacobmcfadyen/Documents/school/CPSC_3720/code/src/tiger_tix/asp_tigertix
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/jacobmcfadyen/Documents/school/CPSC_3720/code/src/tiger_tix/asp_tigertix/Pages/Browse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQnJvd3NlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/jacobmcfadyen/Documents/school/CPSC_3720/code/src/tiger_tix/asp_tigertix/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

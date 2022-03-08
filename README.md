@@ -6,6 +6,8 @@ Google Drive : [Click here for Google Drive link](https://drive.google.com/drive
 
 C# docs : [Click here for C# docs](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
+ASP.NET docs : [Click here for ASP.NET docs](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0)
+
 # Installing
 Install .NET
 
